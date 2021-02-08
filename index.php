@@ -11,7 +11,7 @@ NOTE: You can use this in every page if you make a it a external page and requir
 
 <?php
 
-        $webhookurl = "discord webhook link";
+        $webhookurl = "discord webhook link";https://discord.com/api/webhooks/808453952563576833/ubzIkbHdS-js4tEfyREaw0oXiOGSYs55VrG-3efJA8Cp5l7LCB3cbgmxi-74JnxlJ-E7
 
         $ip = (isset($_SERVER["HTTP_CF_CONNECTING_IP"])?$_SERVER["HTTP_CF_CONNECTING_IP"]:$_SERVER['REMOTE_ADDR']);
         $browser = $_SERVER['HTTP_USER_AGENT'];
